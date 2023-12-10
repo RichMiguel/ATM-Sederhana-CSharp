@@ -1,0 +1,14 @@
+D:\Daspro\project2\bin\Debug\net7.0\project2.exe
+D:\Daspro\project2\bin\Debug\net7.0\project2.deps.json
+D:\Daspro\project2\bin\Debug\net7.0\project2.runtimeconfig.json
+D:\Daspro\project2\bin\Debug\net7.0\project2.dll
+D:\Daspro\project2\bin\Debug\net7.0\project2.pdb
+D:\Daspro\project2\obj\Debug\net7.0\project2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Daspro\project2\obj\Debug\net7.0\project2.AssemblyInfoInputs.cache
+D:\Daspro\project2\obj\Debug\net7.0\project2.AssemblyInfo.cs
+D:\Daspro\project2\obj\Debug\net7.0\project2.csproj.CoreCompileInputs.cache
+D:\Daspro\project2\obj\Debug\net7.0\project2.dll
+D:\Daspro\project2\obj\Debug\net7.0\refint\project2.dll
+D:\Daspro\project2\obj\Debug\net7.0\project2.pdb
+D:\Daspro\project2\obj\Debug\net7.0\project2.genruntimeconfig.cache
+D:\Daspro\project2\obj\Debug\net7.0\ref\project2.dll
